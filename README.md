@@ -1,2 +1,2 @@
 # Tableau-Mitigating_Bird_Strikes_in_Aviation
- Mitigating_Bird_Strikes_in_Aviation using_Tableau_and Figma Background
+ Mitigating Bird Strikes in Aviation using Tableau and Figma Background
